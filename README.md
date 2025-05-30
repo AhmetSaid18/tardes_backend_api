@@ -157,4 +157,4 @@ Herhangi bir katkı veya öneri için lütfen bir pull request gönderin veya is
 ---
 
 **📝 Lisans**: MIT
-**👨‍💻 Geliştirici**: Ahmet Said Ateş
+**👨‍💻 Geliştirici**: Ahmet Said Ateş , Ahmet Kutluay
